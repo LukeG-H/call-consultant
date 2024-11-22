@@ -2,7 +2,7 @@
 # CALL CONSULTANT #
 ###################
 
-The aim of this project was to create a call-logging program that produces a daily phone call report with the follwoing details:
+The aim of this project was to create a call-logging program that produces a daily phone call report with the following details:
     -> a list of who called and from what phone number
     -> the total talking time for each phone number 
     -> the total daily talking time
